@@ -11,6 +11,6 @@ Authorization Server - https://youtu.be/ZIAi8sGHPII
 
 Resource Server - https://youtu.be/lxsUrtcxrog
 
-CORS Support - 
+CORS Support - https://youtu.be/7Yqb275FKmY
 
-Web Application Integration - 
+Web Application Integration - https://youtu.be/9l_Hn8qzsYw
